@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "KUMOR klusjesman",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -70,7 +70,7 @@
     "publishChangesOnly": true
   },
   "pages": {
-    "index.html": {
+    "strona.html": {
       "settings": {
         "main": true,
         "title": "Home",
@@ -1765,9 +1765,9 @@
         }
       ]
     },
-    "page2.html": {
+    "index.html": {
       "settings": {
-        "title": "Page 2",
+        "title": "KUMOR Klussenbedrijf",
         "order": "1"
       },
       "components": [
